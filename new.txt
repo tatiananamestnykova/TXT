@@ -1,0 +1,5 @@
+Lastname Name Patronymic: Namestnykova Tatiana Nykolaevna,
+age: 41,
+pets: ants,
+number of pets: 200,
+future desired salary: 400.
